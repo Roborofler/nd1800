@@ -3,3 +3,17 @@
     margin: 0;
     padding: 0;
 }
+.main{
+	background-color:#35F0E2;
+	height: 120vh;
+	width: 205vh;
+	display: flex;
+	font-family: 
+}
+.photo{
+	height: 75vh;
+	width: 100vh;
+}
+.gerb{
+	display: flex;
+}
