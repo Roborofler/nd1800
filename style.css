@@ -3,3 +3,29 @@
     margin: 0;
     padding: 0;
 }
+.main_name {
+	display: grid;
+	place-items: center;
+	font-size: 300%;
+	font-family: "Dancing Script";
+}
+.city_name {
+	font-size: 175%;
+}
+.about_city {
+	font-size: 125%;
+}
+.cities {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 10px;
+	margin: 5px;
+}
+.city_img {
+	width: 65vh;
+	border-radius: 10%;
+}
+.Lviv, .Kyiv, .Odesa {
+	display: grid;
+	grid-template-rows: 2.7fr 0.3fr 1fr;
+}
