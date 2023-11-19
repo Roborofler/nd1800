@@ -3,3 +3,29 @@
     margin: 0;
     padding: 0;
 }
+
+.main{
+	width: 200vh;
+	height: 100vh;
+	background-color: #75B2EE;
+}
+.al_photo{
+	height: 100vh;
+}
+.container{
+	display: flex;
+}
+.gerb-img{
+	height: 150px;
+	padding-top: 345px;
+}
+.gerb{
+	display: flex;
+}
+p{
+	font-size: 21px;
+}
+.prapor{
+	width: 300px;
+	padding-top: 0px;
+}
