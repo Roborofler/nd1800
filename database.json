@@ -5,6 +5,14 @@
             "name": "Artem",
             "money": 100
         },
+<<<<<<< HEAD
+=======
+        {
+            "id": 1944,
+            "name": "iHateNigger",
+            "money": 99999
+        }
+>>>>>>> a75368faeda47ecabf6ac9e73971d7fcccfd703a
         {
         	"id": 2,
         	"name": "Ab",
