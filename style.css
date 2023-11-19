@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
 .main_name {
 	display: grid;
 	place-items: center;
@@ -28,4 +29,19 @@
 .Lviv, .Kyiv, .Odesa {
 	display: grid;
 	grid-template-rows: 2.7fr 0.3fr 1fr;
+=======
+.main{
+	background-color:#35F0E2;
+	height: 120vh;
+	width: 205vh;
+	display: flex;
+	font-family: 
+}
+.photo{
+	height: 75vh;
+	width: 100vh;
+}
+.gerb{
+	display: flex;
+>>>>>>> origin/kyiv
 }
