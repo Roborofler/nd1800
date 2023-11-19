@@ -5,5 +5,10 @@
             "name": "Artem",
             "money": 100
         }
+        {
+        	"id": 2,
+        	"name": "Ab",
+        	"money": 200
+        }
     ]
 }
