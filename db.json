@@ -4,21 +4,21 @@
             "id": 1,
             "name": "Artem",
             "surname": "Ljukshin",
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/photo.png",
+            "photo_url": "https://i1.sndcdn.com/avatars-xY6hQzL6CddmRxgy-aTp82A-t500x500.jpg",
             "balance": 1500
         },
         {
             "id": 2,
             "name": "Vladik",
             "surname": "SlavaUkraninovich",
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/cat1.png",
+            "photo_url": "https://pp.userapi.com/c845524/v845524850/1f288/5G-8DmgMybo.jpg",
             "balance": 5790
         },
         {
             "id": 3,
             "name": "Katya",
             "surname": "WebDemon",
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/cat2.jpg",
+            "photo_url": "https://i1.sndcdn.com/avatars-9cTWfb7knrBl7lSh-CPhNWw-t500x500.jpg",
             "balance": 0
         }
     ],
