@@ -6,14 +6,11 @@
             "money": 100
         },
         {
-<<<<<<< HEAD
-=======
             "id": 3,
             "name": "ne",
             "money": 1
  },
-{
->>>>>>> origin/odesa
+        {
             "id": 1944,
             "name": "iHateNigger",
             "money": 99999
@@ -22,10 +19,6 @@
         	"id": 2,
         	"name": "Ab",
         	"money": 200
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/odesa
         }
     ]
 }   
