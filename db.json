@@ -70,6 +70,14 @@
             "price": 300,
             "author_id": 2,
             "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Arduino Nano",
+            "description": "Mini-Arduino.",
+            "price": 150,
+            "author_id": 2,
+            "photo_url": "https://lampatronics.com/wp-content/uploads/2022/04/arduino-nano.png"
         }
     ]
 }
